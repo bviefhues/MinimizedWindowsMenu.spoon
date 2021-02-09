@@ -2,7 +2,7 @@
 
 macOS menubar menu for showing and switching to minimized windows. Shows windows belonging to the current space only.
 
-![](MinimizedWindowsMenu.png)
+![Menubar icon with list of minimized windows](MinimizedWindowsMenu.png)
 
 ## Installation
 
@@ -14,7 +14,9 @@ macOS menubar menu for showing and switching to minimized windows. Shows windows
 
 * Load and configure the Spoon from `~/.hammerspoon/init.lua`:
 
-`hs.loadSpoon("MinimizedWindowsMenu"):start()`
+```
+hs.loadSpoon("MinimizedWindowsMenu"):start()
+```
 
 * Reload Hammerspoon
 

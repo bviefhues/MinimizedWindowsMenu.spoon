@@ -1,4 +1,4 @@
---- === MinimizedWindowsMenu.spoon ===
+--- === MinimizedWindowsMenu ===
 ---
 --- Menubar menu for showing and switching to minimized windows.
 --- Shows windows of the current space only.
@@ -18,6 +18,7 @@ obj.__index = obj
 obj.name = "MinimizedWindowsMenu"
 obj.version = "0.0"
 obj.author = "B Viefhues"
+obj.homepage = "https://github.com/bviefhues/MinimizedWindowsMenu.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
 
 
