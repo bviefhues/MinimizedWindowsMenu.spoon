@@ -1,6 +1,6 @@
 # MinimizedWindowsMenu
 
-macOS menubar menu for showing and switching to minimized windows. Shows windows belonging to the current space only.
+macOS menubar menu for showing and switching to minimized windows. Shows minimized windows belonging to the current space only. Clicking on a window name in the menu un-minimizes it.
 
 ![Menubar icon with list of minimized windows](MinimizedWindowsMenu.png)
 
